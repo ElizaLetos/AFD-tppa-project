@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">File manager</string>
+    <string name="delete">Delete</string>
+    <string name="create_file">Create File</string>
+    <string name="file_name">File Name</string>
+    <string name="content">Content</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit_fileName">Edit Name</string>
+    <string name="edit_fileContent">Edit Content</string>
+</resources>
